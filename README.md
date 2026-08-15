@@ -61,7 +61,7 @@ The complete results, graphs and outputs are available in the Jupyter Notebook.
 
 The main file in this repository is:
 
-`Eye_Disease_Classification_Deep_Learning.ipynb`
+`Project_code.ipynb`
 
 The notebook contains the Python code and the outputs generated during the experiments.
 
